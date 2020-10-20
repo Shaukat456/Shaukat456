@@ -19,4 +19,3 @@ Skills:  REACT / JS / HTML / CSS / NODE / EXPRESS / JQUERY
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaukat456)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaukat456&layout=compact)
