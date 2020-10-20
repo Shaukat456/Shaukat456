@@ -1,12 +1,23 @@
-### Hi there, I'm Shaukat 👋
+### Hi there 👋, I'm Shaukat
+#### I am a MERN STACK DEVELOPER
+Web developer Currently building Restful-API with Node.JS/Express.JS and Mongo Db. I usually work with Jquery , Javascript, Learning React.js nowadays.
+
+Skills:  REACT / JS / HTML / CSS / NODE / EXPRESS / JQUERY
+
+- 🔭 I’m currently working on Express 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on Javascript 
+- 📫 How to reach me: https://www.linkedin.com/in/shaukat-sohail-012aaa167/ 
 
 
-<!--**Shaukat456/Shaukat456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shaukat456)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaukat-sohail-012aaa167//)  
 
-<!--Here are some ideas to get you started:-->
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- 🔭 I’m currently working on ... Express Js
-- 🌱 I’m currently learning ... REACT
-- 👯 I’m looking to collaborate on ... Javascript
-- 📫 How to reach me: ... https://www.linkedin.com/in/shaukat-sohail-012aaa167/
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Shaukat456)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Shaukat456)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Shaukat456)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/Shaukat456)  
