@@ -6,7 +6,7 @@ Skills:  REACT / JS / HTML / CSS / NODE / EXPRESS / JQUERY
 
 - 🔭 I’m currently working on Express 
 - 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on https://github.com/github/explore/blob/master/topics/javascript/javascript.png
+- 👯 I’m looking to collaborate on Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/shaukat-sohail-012aaa167/ 
 
 
