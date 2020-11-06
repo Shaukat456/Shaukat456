@@ -1,13 +1,14 @@
 ### Hi there 👋, I'm Shaukat
 #### A MERN STACK DEVELOPER
-Web developer Currently building Restful-API with Node.JS/Express.JS and Mongo Db. 
+Web developer Currently building Restful-API with Node.JS/Express.JS and Mongo DB. 
 
-Skills:  REACT / JS / HTML / CSS / NODE / EXPRESS / JQUERY
+Skills:  REACT / JS / HTML / CSS / NODE / EXPRESS / JQUERY / SAAS. 
 
 - 🔭 I’m currently working on Express , React 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/shaukat-sohail-012aaa167/ 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shaukat456)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaukat-sohail-012aaa167//)  
