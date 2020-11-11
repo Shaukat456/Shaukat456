@@ -4,7 +4,7 @@ Web developer Currently building Restful-API with Node.JS/Express.JS and MongoDB
 
 Skills:  REACT / JS / HTML / CSS / NODE / EXPRESS / JQUERY / REDUX. 
 
-- 🔭 I’m currently working on Express , React 
+- 🔭 I’m currently working on  React 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/shaukat-sohail-012aaa167/ 
