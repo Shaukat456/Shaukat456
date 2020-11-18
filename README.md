@@ -6,7 +6,7 @@ Skills:  REACT  /  JS / HTML / CSS / NODE / EXPRESS / JQUERY / REDUX.
 
 - 🔭 I’m currently working on  React 
 - 🌱 I’m currently learning Redux
-- 👯 I’m looking to collaborate on Mern Stack Projects.
+- 👯 I’m looking to collaborate on Mern Stack Projects
 - 📫 How to reach me: https://www.linkedin.com/in/shaukat-sohail-012aaa167/ 
 
 
