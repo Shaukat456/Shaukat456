@@ -2,7 +2,7 @@
 #### A MERN STACK DEVELOPER
 Web developer Currently building Restful-API with Node.JS/Express.JS and MongoDB .
 
-Skills:  REACT  /  JS / HTML / CSS / NODE / EXPRESS / JQUERY / REDUX.
+Skills:  REACT  /  JS / HTML / CSS / NODE / EXPRESS .
 
 - 🔭 I’m currently working on  React 
 - 🌱 I’m currently learning Redux
