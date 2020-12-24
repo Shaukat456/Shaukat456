@@ -6,7 +6,7 @@ Skills:  REACT.js /  JS / HTML / CSS / NODE / EXPRESS .
 
 - 🔭 I’m currently working on  React 
 
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning React
 
 - 👯 I’m looking to collaborate on Mern Stack Projects
 
