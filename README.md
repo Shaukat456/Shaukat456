@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Shaukat
 #### A MERN STACK DEVELOPER
-Currently building Restful-API with Node.JS/Express.JS and MongoDB .
 
-Skills:  REACT.js /  JS / HTML / CSS / NODE / EXPRESS .
+Skills:  REACT.js /  JS / HTML / CSS / NODE / EXPRESS / Mongoose. 
 
 - 🔭 I’m currently working on  React 
 
