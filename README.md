@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Shaukat
 #### A MERN STACK DEVELOPER
 
-Skills:  REACT.js /  JS / HTML / CSS / NODE / EXPRESS / Mongoose. 
+Skills:  REACT.js /  JS / HTML / CSS / NODE / EXPRESS / MongoDB
 
 - 🔭 I’m currently working on  React 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning NodeJA
 
 - 👯 I’m looking to collaborate on Mern Stack Projects
 
