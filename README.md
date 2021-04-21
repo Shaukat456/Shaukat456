@@ -3,9 +3,9 @@
 
 Skills:  REACT.js /  JS / HTML / CSS / NODE / EXPRESS / MongoDB
 
-- 🔭 I’m currently working on  React 
+- 🔭 I’m currently working on  React / Nodejs
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning MySQL
 
 - 👯 I’m looking to collaborate on Mern Stack Projects
 
