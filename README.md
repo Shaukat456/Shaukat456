@@ -11,7 +11,7 @@ Skills:  REACT.js /  JS / HTML / CSS / NODE / EXPRESS / MongoDB
 
 - 📫 How to reach me: https://www.linkedin.com/in/shaukat-sohail-012aaa167/ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Shaukat456=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaukat456)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
