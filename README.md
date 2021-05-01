@@ -11,7 +11,7 @@ Skills:  REACT.js /  JS / HTML / CSS / NODE / EXPRESS / MongoDB
 
 - 📫 How to reach me: https://www.linkedin.com/in/shaukat-sohail-012aaa167/ 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Shaukat456=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?shaukat456=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
