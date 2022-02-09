@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nodejs**
 
-- 🌱 I’m currently learning **Redux , Typescript**
+- 🌱 I’m currently learning **UI / UX Desigining**
 
 - 👯 I’m looking to collaborate on **Frontend | Backend Projects**
 
