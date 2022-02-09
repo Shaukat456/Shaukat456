@@ -1,5 +1,5 @@
 <h1 align="center"> <  I'm Shaukat  />  </h1>
-<h3 align="center">A Mern Stack (Full Stack Web Developer ) from Karachi</h3>
+<h3 align="center">A  Full Stack Web Developer ( Mern ) from Karachi</h3>
 
 - 🔭 I’m currently working on **Nodejs**
 
