@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shaukat456](https://github.com/Shaukat456)
 
-- 📝 I regularly write articles on [https://medium.com/@shoukat8bl](https://medium.com/@shoukat8bl)
+- 📝 I  write articles on [https://medium.com/@shoukat8bl](https://medium.com/@shoukat8bl)
 
 - 💬 Ask me about **React | Nodejs | Javascript**
 
