@@ -17,7 +17,7 @@
 
 - 💬 Email Me At *shaukatfullstack134@gmail.com*  
 
-- ⚡ Fun fact **I can read real stories all day**
+- ⚡ Fun fact ** Your future self is watching you through your memories**
 
 
 <h3 align="left">Connect with me:</h3>
