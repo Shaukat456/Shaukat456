@@ -29,3 +29,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaukat456&show_icons=true&locale=en" alt="shaukat456" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaukat456&" alt="shaukat456" /></p>
+
+
+
+
+
+<img align="center" alt="Shaukat's Last Week Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=shaukat456&hide_border=true&theme=gotham" /></div>
+
