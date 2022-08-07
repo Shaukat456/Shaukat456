@@ -36,3 +36,10 @@
 
 <img align="center" alt="Shaukat's Last Week Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=shaukat456&hide_border=true&theme=gotham" /></div>
 
+
+
+
+
+<figure><embed src="https://wakatime.com/share/@shaukat456/06e4fa99-844b-4c82-85b5-6eafe0ba4f91.svg"></embed></figure>
+
+
