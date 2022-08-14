@@ -64,8 +64,10 @@
 
 </td></tr></table>  
 
-<br/>  
 
+
+<br/>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaukat456&" alt="shaukat456" /></p>
 
 ## Connect with me  
 <div align="center">
