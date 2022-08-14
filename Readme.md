@@ -10,7 +10,7 @@
 - **❓ Ask me about anything related to MERN stack and related technologies**  
   
 
-- **⚡ Fun fact: I still enjoy playing stupid childhood games.**  
+- **⚡ Fun fact: I still enjoy watching cartoons & playing childhood games.**  
   
 
 <br/>  
