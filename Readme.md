@@ -1,11 +1,6 @@
 # **<div align="center">I'm Shaukat, a Full-Stack-Web-Developer  🎯</div>**  
   
 
-  
-  
-
-  
-  
 
 - **❓ Ask me about anything related to MERN stack and related technologies**  
   
