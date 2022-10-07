@@ -8,6 +8,20 @@
 - **⚡ Fun fact: I still enjoy watching cartoons & playing childhood games.**  
 
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/shaukat456" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="upwork" src="https://img.shields.io/badge/upwork-%231877f2.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=17A700"/>
+</a>
+<a href="https://linkedin.com/in/shaukat-sohail-012aaa167/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
 
        
   
@@ -72,21 +86,7 @@
 <br/>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaukat456&" alt="shaukat456" /></p>
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/shaukat456" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="upwork" src="https://img.shields.io/badge/upwork-%231877f2.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=17A700"/>
-</a>
-<a href="https://linkedin.com/in/shaukat-sohail-012aaa167/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
 
 
 ## Github Stats  
