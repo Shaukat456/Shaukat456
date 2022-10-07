@@ -10,9 +10,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/shaukat456" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="upwork" src="https://img.shields.io/badge/upwork-%231877f2.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=17A700"/>
 </a>
