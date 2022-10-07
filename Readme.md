@@ -77,12 +77,6 @@
 <a href="https://github.com/shaukat456" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/shawkat42672614" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="upwork" src="https://img.shields.io/badge/upwork-%231877f2.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=17A700"/>
 </a>
