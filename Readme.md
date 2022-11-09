@@ -6,7 +6,7 @@
   
 
 - **RESUME   https://rxresu.me/r/Kyf8RDWK**  
-- **⚡ Fun fact: I still enjoy watching cartoons & playing childhood games.**  
+- **⚡ Fun fact: Memories are dynamic , you can always modify them.**  
 
 
 ## Connect with me  
