@@ -5,7 +5,7 @@
 - **❓ Ask me about anything related to MERN stack and related technologies**  
   
 
-  - **⚡ MY RESUME   https://rxresu.me/shoukat8ball/shaukat **  
+- **RESUME   https://rxresu.me/shoukat8ball/shaukat**  
 - **⚡ Fun fact: I still enjoy watching cartoons & playing childhood games.**  
 
 
