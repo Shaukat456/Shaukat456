@@ -5,7 +5,7 @@
 - **❓ Ask me about anything related to MERN stack and related technologies**  
   
 
-- **RESUME   https://rxresu.me/r/Kyf8RDWK**  
+<!-- - **RESUME   https://rxresu.me/r/Kyf8RDWK**   -->
 - **⚡ Fun fact: Memories are dynamic , you can always modify them.**  
 
 
