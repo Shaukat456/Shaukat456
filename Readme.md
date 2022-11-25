@@ -12,9 +12,9 @@
 ## Connect with me  
 <div align="center">
 
-<a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028" target="_blank" rel="nofollow noopener noreferrer">
+<!-- <a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="upwork" src="https://img.shields.io/badge/upwork-%231877f2.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=17A700"/>
-</a>
+</a> -->
 <a href="https://linkedin.com/in/shaukat-sohail-012aaa167/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
