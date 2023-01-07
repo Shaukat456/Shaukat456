@@ -3,9 +3,11 @@
 
 #### As an autodidact software developer, I have nurtured a deep-seated passion for programming since my inception into the field at 18 years of age. I perceive software development not merely as a vocation, but as a chance to explore the boundless possibilities of creativity and innovation. My programming journey began with Python and subsequently progressed to web development with JavaScript. Throughout my career, I have acquired proficiencies in various technologies and developed experience in constructing both front-end and back-end applications, as well as implementing database operations using both NoSQL and SQL databases.
 
-##### In the past year, I have focused on learning new web technologies and staying apprised of industry trends. I have gained experience creating scalable MERN/MEAN/MEVN stack apps for diverse enterprises. I find enjoyment in both building and deconstructing objects, and possess a keen interest in understanding the inner workings of objects in the world.
+#### In the past year, I have focused on learning new web technologies and staying apprised of industry trends. I have gained experience creating scalable MERN/MEAN/MEVN stack apps for diverse enterprises. I find enjoyment in both building and deconstructing objects, and possess a keen interest in understanding the inner workings of objects in the world.
 
-##### To me, coding represents more than just a job; it is a chance to exercise creativity and continuously learn and grow. I am constantly seeking new challenges and opportunities to utilize my skills and knowledge to innovate solutions.
+#### To me, coding represents more than just a job; it is a chance to exercise creativity and continuously learn and grow. I am constantly seeking new challenges and opportunities to utilize my skills and knowledge to innovate solutions.
+
+## Below are Some of the Techs That I've worked with 
 
 ## Frontend
 
@@ -19,16 +21,18 @@
   <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux" alt="Redux"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind" alt="Tailwind"/></a>
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="Bootstrap"/></a>
+  <a href="https://graphql.org/"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql" alt="GraphQL"/></a>
+  <a href="https://www.apollographql.com/"><img src="https://img.shields.io/badge/-Apollo-FD3E44?style=flat&logo=apollo" alt="Apollo"/></a>
 </p>
 
 ## Backend
 
 <p align="start">
+    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" alt="Node.js"/></a>
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express.js" alt="Express.js"/></a>
   <a href="https://sailsjs.com/"><img src="https://img.shields.io/badge/-Sails.js-0093D0?style=flat&logo=sails.js" alt="Sails.js"/></a>
-  <a href="https://loopback.io/"><img src="https://img.shields.io/badge/-LoopBack-0052CC?style=flat&logo=loopback" alt="LoopBack"/></a>
   <a href="https://adonisjs.com/"><img src="https://img.shields.io/badge/-Adonis.js-333333?style=flat&logo=adonis.js" alt="Adonis.js"/></a>
-  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/-Nest.js-4BC51D?style=flat&logo=nest.js" alt="Nest.js"/></a>
+  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/-Nest.js-D42026?style=flat&logo=nest.js" alt="Nest.js"/></a>
 </p>
 
 ## Databases
@@ -43,11 +47,10 @@
 <p align="start">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript" alt="TypeScript"/></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B" alt="C++"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" alt="Python"/></a>
-</p>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-C++-D42026?style=flat&logo=c%2B%2B" alt="C++"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-2E5266?style=flat&logo=python" alt="Python"/></a>
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Shaukat456.svg)](https://github.com/Shaukat456)
+</p>
 
 ## Contact
 
