@@ -7,6 +7,18 @@
 
 #### To me, coding represents more than just a job; it is a chance to exercise creativity and continuously learn and grow. I am constantly seeking new challenges and opportunities to utilize my skills and knowledge to innovate solutions.
 
+## Github Stats  
+
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaukat456&" alt="shaukat456" /></p>
+
+
+</div>  
+
+
+
+<br/>  
+
 ## Below are Some of the Techs That I've worked with 
 
 ## Frontend
