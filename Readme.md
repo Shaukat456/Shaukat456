@@ -1,97 +1,59 @@
-# **<div align="center">I'm Shaukat, a Full-Stack-Web-Developer  🎯</div>**  
-  
 
+# Shaukat Sohail
 
-- **❓ Ask me about anything related to MERN stack and related technologies**  
-  
+#### As an autodidact software developer, I have nurtured a deep-seated passion for programming since my inception into the field at 18 years of age. I perceive software development not merely as a vocation, but as a chance to explore the boundless possibilities of creativity and innovation. My programming journey began with Python and subsequently progressed to web development with JavaScript. Throughout my career, I have acquired proficiencies in various technologies and developed experience in constructing both front-end and back-end applications, as well as implementing database operations using both NoSQL and SQL databases.
 
-<!-- - **RESUME   https://rxresu.me/r/Kyf8RDWK**   -->
-- **⚡ Fun fact: Memories are dynamic , you can always modify them.**  
+##### In the past year, I have focused on learning new web technologies and staying apprised of industry trends. I have gained experience creating scalable MERN/MEAN/MEVN stack apps for diverse enterprises. I find enjoyment in both building and deconstructing objects, and possess a keen interest in understanding the inner workings of objects in the world.
 
+##### To me, coding represents more than just a job; it is a chance to exercise creativity and continuously learn and grow. I am constantly seeking new challenges and opportunities to utilize my skills and knowledge to innovate solutions.
 
-## Connect with me  
-<div align="center">
+## Frontend
 
-<!-- <a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="upwork" src="https://img.shields.io/badge/upwork-%231877f2.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=17A700"/>
-</a> -->
-<a href="https://linkedin.com/in/shaukat-sohail-012aaa167/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<p align="start">
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react" alt="React"/></a>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js" alt="Vue.js"/></a>
+  <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular" alt="Angular"/></a>
+  <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/-Svelte-f93e02?style=flat&logo=svelte" alt="Svelte"/></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/></a>
+  <a href="https://www.gatsbyjs.org/"><img src="https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby" alt="Gatsby"/></a>
+  <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux" alt="Redux"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind" alt="Tailwind"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="Bootstrap"/></a>
+</p>
 
+## Backend
 
-       
-  
+<p align="start">
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express.js" alt="Express.js"/></a>
+  <a href="https://sailsjs.com/"><img src="https://img.shields.io/badge/-Sails.js-0093D0?style=flat&logo=sails.js" alt="Sails.js"/></a>
+  <a href="https://loopback.io/"><img src="https://img.shields.io/badge/-LoopBack-0052CC?style=flat&logo=loopback" alt="LoopBack"/></a>
+  <a href="https://adonisjs.com/"><img src="https://img.shields.io/badge/-Adonis.js-333333?style=flat&logo=adonis.js" alt="Adonis.js"/></a>
+  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/-Nest.js-4BC51D?style=flat&logo=nest.js" alt="Nest.js"/></a>
+</p>
 
-<br/>  
+## Databases
+<p align="start">
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb" alt="MongoDB"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase" alt="Firebase"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" alt="MySQL"/></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=redis" alt="Redis"/></a>
+</p>
 
+## Languages 
+<p align="start">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript" alt="TypeScript"/></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B" alt="C++"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" alt="Python"/></a>
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Shaukat456.svg)](https://github.com/Shaukat456)
 
+## Contact
 
-### Frontend 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" alt="Git" height="50" /></a>  
-
-<!-- <a href="https://redux.js.org/" target="_blank"><img style="" src="https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" alt="Redux" height="50" /></a> -->
-</div>
-
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<!-- <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   -->
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<!-- <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>   -->
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Learned For Fun 
- <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
-</div> 
-
-</td></tr></table>  
-
-
-
-
-
-<br/>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaukat456&" alt="shaukat456" /></p>
-
-
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shaukat456&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaukat456&bg_color=000000&color=05ff16&line=26e89e&point=ff1a1a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+<p align="start">
+  <a href="https://linkedin.com/in/shaukat-sohail-012aaa167/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/Shaukat456"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub"/></a>
+  <a href="mailto:shaukatfullstack134@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail" alt="Gmail"/></a>
+  <a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028"><img src="https://img.shields.io/badge/-Upwork-6D6D6D?style=flat&logo=upwork" alt="Upwork"/></a>
+</p>
