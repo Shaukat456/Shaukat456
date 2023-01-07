@@ -28,12 +28,14 @@
 ## Backend
 
 <p align="start">
-    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" alt="Node.js"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" alt="Node.js"/></a>
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express.js" alt="Express.js"/></a>
   <a href="https://sailsjs.com/"><img src="https://img.shields.io/badge/-Sails.js-0093D0?style=flat&logo=sails.js" alt="Sails.js"/></a>
   <a href="https://adonisjs.com/"><img src="https://img.shields.io/badge/-Adonis.js-333333?style=flat&logo=adonis.js" alt="Adonis.js"/></a>
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/-Nest.js-D42026?style=flat&logo=nest.js" alt="Nest.js"/></a>
-</p>
+  <a href="https://www.fastify.io/"><img src="https://img.shields.io/badge/-Fastify-FF5E5B?style=flat&logo=fastify "/> </a>
+   <a href="https://koajs.com/"><img src="https://img.shields.io/badge/-Koa.js-00CC99?style=flat&logo=koa.js" alt="Koa.js"/></a>
+  </p>
 
 ## Databases
 <p align="start">
@@ -41,6 +43,8 @@
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase" alt="Firebase"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" alt="MySQL"/></a>
   <a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=redis" alt="Redis"/></a>
+  <a href="https://fauna.com/"><img src="https://img.shields.io/badge/-FaunaDB-81C7D4?style=flat&logo=fauna" alt="FaunaDB"/></a>
+  <a href="https://couchdb.apache.org/"><img src="https://img.shields.io/badge/-CouchDB-4D4D4D?style=flat&logo=couchdb" alt="CouchDB"/></a>
 </p>
 
 ## Languages 
@@ -52,8 +56,7 @@
 
 </p>
 
-## Contact
-
+## Contact here
 <p align="start">
   <a href="https://linkedin.com/in/shaukat-sohail-012aaa167/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/Shaukat456"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub"/></a>
