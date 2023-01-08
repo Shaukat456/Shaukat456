@@ -5,7 +5,7 @@
 
 #### In the past year, I have focused on learning new web technologies and staying apprised of industry trends. I have gained experience creating scalable MERN/MEAN/MEVN stack apps for diverse enterprises. I find enjoyment in both building and deconstructing objects, and possess a keen interest in understanding the inner workings of objects in the world.
 
-#### To me, coding represents more than just a job; it is a chance to exercise creativity and continuously learn and grow. I am constantly seeking new challenges and opportunities to utilize my skills and knowledge to innovate solutions.
+##### To me, coding represents more than just a job; it is a chance to exercise creativity and continuously learn and grow. I am constantly seeking new challenges and opportunities to utilize my skills and knowledge to innovate solutions.
 
 ## Github Stats  
 
