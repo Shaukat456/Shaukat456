@@ -19,7 +19,7 @@
 
 <br/>  
 
-## Below are Some of the Techs That I've worked with 
+# Techs I've worked with
 
 ## Frontend
 
