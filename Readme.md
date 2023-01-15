@@ -1,7 +1,7 @@
 
 # Shaukat Sohail
 
-#### As an autodidact software developer, I have nurtured a deep-seated passion for programming since my inception into the field at 18 years of age. I perceive software development not merely as a vocation, but as a chance to explore the boundless possibilities of creativity and innovation. My programming journey began with Python and subsequently progressed to web development with JavaScript. Throughout my career, I have acquired proficiencies in various technologies and developed experience in constructing both front-end and back-end applications, as well as implementing database operations using both NoSQL and SQL databases.
+#### As an autodidact software developer, I have nurtured a deep-seated passion for programming since my inception into the field back in March 2020. I perceive software development not merely as a vocation, but as a chance to explore the boundless possibilities of creativity and innovation. My programming journey began with Python and subsequently progressed to web development with JavaScript. Throughout my career, I have acquired proficiencies in various technologies and developed experience in constructing both front-end and back-end applications, as well as implementing database operations using both NoSQL and SQL databases.
 
 #### In the past year, I have focused on learning new web technologies and staying apprised of industry trends. I have gained experience creating scalable MERN/MEAN/MEVN stack apps for diverse enterprises. I find enjoyment in both building and deconstructing objects, and possess a keen interest in understanding the inner workings of objects in the world.
 
