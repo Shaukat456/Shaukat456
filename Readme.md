@@ -76,5 +76,5 @@
   <a href="https://linkedin.com/in/shaukat-sohail-012aaa167/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/Shaukat456"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub"/></a>
   <a href="mailto:shaukatfullstack134@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail" alt="Gmail"/></a>
-  <a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028"><img src="https://img.shields.io/badge/-Upwork-6D6D6D?style=flat&logo=upwork" alt="Upwork"/></a>
+<!--   <a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028"><img src="https://img.shields.io/badge/-Upwork-6D6D6D?style=flat&logo=upwork" alt="Upwork"/></a> -->
 </p>
