@@ -1,21 +1,8 @@
-
-# Shaukat Sohail ( Full Stack ME(A + R)N  Developer)
-
-#### As an autodidact software developer, I have nurtured a deep-seated passion for programming since my inception into the field back in March 2020. I perceive software development not merely as a vocation, but as a chance to explore the boundless possibilities of creativity and innovation. My programming journey began with Python and subsequently progressed to web development with JavaScript. Throughout my career, I have acquired proficiencies in various technologies and developed experience in constructing both front-end and back-end applications, as well as implementing database operations using both NoSQL and SQL databases.
-
-#### In the past year, I have focused on learning new web technologies and staying apprised of industry trends. I have gained experience creating scalable MERN/MEAN/MEVN stack apps for diverse enterprises. I find enjoyment in both building and deconstructing objects, and possess a keen interest in understanding the inner workings of objects in the world.
-
-## Github Stats  
-
- 
+## Github Stats   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaukat456&" alt="shaukat456" /></p>
 
 
 </div>  
-
-
-
-<br/>  
 
 # Techs I've worked with
 
@@ -65,7 +52,7 @@
 ## Contact here
 <p align="start">
   <a href="https://linkedin.com/in/shaukat-sohail-012aaa167/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/Shaukat456"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub"/></a>
+ 
   <a href="mailto:shaukatfullstack134@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail" alt="Gmail"/></a>
-<!--   <a href="https://www.upwork.com/freelancers/~017a55a5fc20b70028"><img src="https://img.shields.io/badge/-Upwork-6D6D6D?style=flat&logo=upwork" alt="Upwork"/></a> -->
+
 </p>
