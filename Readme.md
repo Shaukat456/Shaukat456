@@ -6,6 +6,7 @@
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -38,5 +39,4 @@
 ## Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/shaukat-sohail-012aaa167/)
-- [Upwork](https://www.upwork.com/freelancers/yourusername)
 - [Email](shaukatsohail75@gmail.com)
