@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaukat456&" alt="GitHub Streak" />
-</p>
-
-
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -14,7 +9,6 @@
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-FD3E44?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 
 ## Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-D42026?style=for-the-badge&logo=nestjs&logoColor=white)
