@@ -46,3 +46,6 @@
 <br>
 
 #### Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaukat456&" alt="GitHub Streak" />
+</p>
