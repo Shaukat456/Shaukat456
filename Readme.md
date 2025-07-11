@@ -1,7 +1,7 @@
 # Shaukat Sohail
 
 <div align="center">
-  <a href="https://shaukatsohail.vercel.app/" target="_blank" rel="nofollow noopener noreferrer">
+  <a href="" target="_blank" rel="nofollow noopener noreferrer">
     <img alt="website" src="https://img.shields.io/badge/website-%23323330.svg?&style=for-the-badge&logo=Zulip&logoColor=white"/>
   </a>
   <a href="mailto:shaukatsohail75@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
