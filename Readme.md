@@ -7,7 +7,7 @@
   <a href="mailto:shaukatsohail75@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
     <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/shaukat-sohail-012aaa167" target="_blank" rel="nofollow noopener noreferrer">
+  <a href="www.linkedin.com/in/" target="_blank" rel="nofollow noopener noreferrer">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
   </a>
 </div>
