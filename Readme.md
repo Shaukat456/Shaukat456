@@ -50,6 +50,6 @@
 <div align="center">
   
   <!-- Streak Card -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Shaukat456&theme=dark&hide_border=true)
+  ![GitHub Streak](https://streak-stats.vercel.app/?user=Shaukat456&theme=dark&hide_border=true)
 
 </div>
