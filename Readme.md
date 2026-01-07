@@ -48,5 +48,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shaukat456&theme=dark&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Streak Card -->
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Shaukat456&theme=dark&hide_border=true)
+
 </div>
