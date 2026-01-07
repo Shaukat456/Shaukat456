@@ -48,5 +48,5 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaukat456&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Shaukat456&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
