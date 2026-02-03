@@ -9,11 +9,11 @@
 </div>
 
 ## 🔬 About Me
-Full-stack developer with expertise in scientific computing, physics simulations, and quantum computing applications. I build scalable web applications while exploring the intersection of software engineering and computational physics.
+I am a Full-stack developer  I like to build web apps while exploring quantum computing, physics simulations, and AI/ML. I enjoy combining modern software engineering with scientific computing.
 
 ## 💻 Technologies
 
-<div align="center">
+<div align="center"
   
   ### Frontend 
   <p>
