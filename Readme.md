@@ -1,8 +1,5 @@
 # Shaukat Sohail
 <div align="center">
-  <a href="" target="_blank" rel="nofollow noopener noreferrer">
-    <img alt="website" src="https://img.shields.io/badge/website-%23323330.svg?&style=for-the-badge&logo=Zulip&logoColor=white"/>
-  </a>
   <a href="mailto:shaukatsohail75@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
     <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
@@ -18,7 +15,7 @@ Full-stack developer with expertise in scientific computing, physics simulations
 
 <div align="center">
   
-  ### Frontend & Web Development
+  ### Frontend 
   <p>
     <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/>
     <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"/>
